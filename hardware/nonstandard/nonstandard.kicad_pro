@@ -412,6 +412,34 @@
     [
       "88b24da5-21e5-45ca-b60b-f84d5f34013e",
       "Root"
+    ],
+    [
+      "e7cd82db-cfc6-4757-88a3-94d19e4cdfc1",
+      "digi"
+    ],
+    [
+      "8168cf61-c93b-4581-90f8-d6bc1b75e5aa",
+      "peavey_normal"
+    ],
+    [
+      "29bfa6dd-f3a2-4add-9b21-dafdc4535063",
+      "peavey_dist"
+    ],
+    [
+      "c55d06c4-9bc2-4189-ace7-dd98a2fe03eb",
+      "sunn"
+    ],
+    [
+      "6b4353b6-935d-4c91-bfdb-db94ce73ee5d",
+      "power"
+    ],
+    [
+      "b7f4b083-158a-4daa-a57d-4b7519ba93c1",
+      "preamp"
+    ],
+    [
+      "887423f4-b91d-4fcd-addc-e7c5ff7c1a7f",
+      "power_amp"
     ]
   ],
   "text_variables": {}

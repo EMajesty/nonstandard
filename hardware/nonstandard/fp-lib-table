@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nonstandard")(type "KiCad")(uri "${KIPRJMOD}/nonstandard.pretty")(options "")(descr ""))
+)
